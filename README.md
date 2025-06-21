@@ -2,11 +2,11 @@
 
 G2 Team Members:
 
-[Tiv sokchea]
-[Saren Ratanak]
-[Man Tolfary]
-[Lor Vengroth]
-[Heang Bunlong]
-[Heang Bunleang]
-[Saroeun Sothearith]
-[Lay lily]
+1. [Tiv sokchea]
+2. [Saren Ratanak]
+3. [Man Tofary]
+4. [Lor Vengroth]
+5. [Heang Bunlong]
+6. [Heang Bunleang]
+7. [Saroeun Sothearith]
+8. [Lay lily]

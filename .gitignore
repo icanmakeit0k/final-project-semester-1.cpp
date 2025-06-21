@@ -1,0 +1,12 @@
+# Ignore the entire build directory
+# This folder contains temporary files and the final compiled application,
+# which can be different on every computer.
+/build/
+
+# Ignore the data directory
+# It's good practice to not commit data files like .csv, especially if they
+# might contain user information.
+/data/
+
+# Ignore common system files that don't belong in the repository
+.DS_Store
